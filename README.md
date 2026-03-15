@@ -21,4 +21,4 @@ User → Drupal CMS → Next.js Calculator → Node API → MySQL
 
 ## System Architecture
 
-![Architecture Diagram](architecture-diagram.png)
+![Architecture Diagram](architecture-diagram-ada.png)
