@@ -24,5 +24,4 @@ User → Drupal CMS → Next.js Calculator → Node API → MySQL
 ![Architecture Diagram](architecture-diagram-ada.png)
 
 ## Demo Video
-
-[Watch the Demo](sip-calculator-ada.mp4)
+https://github.com/user-attachments/assets/2ba3ae6a-cc45-4af7-95d3-52fe06ab6e79
